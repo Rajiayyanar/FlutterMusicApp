@@ -4,7 +4,7 @@ import '../Models/songmodel.dart';
 
 class ApiService {
 
-  static const String apiKey = "AIzaSyCOf2JrzCNVpZSHiZGQ82x_RS5j6kvef8Q";
+  static const String apiKey = "";
 
  Future<List<Song>> searchSongs(String query) async {
 
