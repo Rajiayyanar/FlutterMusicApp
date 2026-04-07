@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "443966727456",
+    "project_id": "music-hub-8e8ee",
+    "storage_bucket": "music-hub-8e8ee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443966727456:android:fa02dcb566a5ff85caa345",
+        "android_client_info": {
+          "package_name": "com.example.musichub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443966727456-vs97qoh5cismac3c3e79qdv58rs0j5ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnnQGjUtlKyyi26R2sGtr_bcw0KO4vY0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443966727456-vs97qoh5cismac3c3e79qdv58rs0j5ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

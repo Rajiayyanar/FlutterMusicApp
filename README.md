@@ -1,4 +1,4 @@
-# musicapp
+# Music Hub
 
 A new Flutter project.
 

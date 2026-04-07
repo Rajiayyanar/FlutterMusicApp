@@ -4,11 +4,11 @@ import '../Models/songmodel.dart';
 
 class ApiService {
 
-  static const String apiKey = "";
+  static const String apiKey = "AIzaSyCOf2JrzCNVpZSHiZGQ82x_RS5j6kvef8Q";
 
  Future<List<Song>> searchSongs(String query) async {
 
-  final url =
+  final url = 
       "https://www.googleapis.com/youtube/v3/search"
       "?part=snippet"
       "&q=$query"

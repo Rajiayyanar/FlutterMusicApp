@@ -411,8 +411,8 @@ void addSong() async {
   title: Text(
     songs[index]["title"],
     style: const TextStyle(
-      color: Colors.white,
-      fontSize: 16,
+      color: Color.fromARGB(255, 251, 172, 139),
+      fontSize: 13,
     ),
   ),
 
@@ -420,7 +420,7 @@ void addSong() async {
     songs[index]["artist"],
     style: const TextStyle(
       color: Colors.white54,
-      fontSize: 13,
+      fontSize: 11,
     ),
   ),
 
